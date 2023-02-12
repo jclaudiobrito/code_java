@@ -2,7 +2,7 @@
 import javax.swing.JOptionPane;
 
 
-public class Desafio_Projeto_1 {
+public class jogodaforca {
     
     static String LerPalavra(){
           
