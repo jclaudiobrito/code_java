@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  *               PROJETO INTREGADOR                         * 
  *                                                          *
  *                                                          * 
- * AUTOR: JCLAUDIO DA ROCHA BRITO                           *
+ * AUTOR: JCLAUDIO BRITO                                    *
  *                                                          *
  *                                                          *
  * 10/12/2016                                               *  
